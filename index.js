@@ -1,4 +1,3 @@
-console.log('[OK]')
 const Telegraf = require('telegraf')
 
 const bot = new Telegraf('838117254:AAHihInYXXHm4Fo2UQuqdLmsiyCKKZnZo3E')
