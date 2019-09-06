@@ -1,0 +1,9 @@
+{
+  "name": "stl-telegram-home-bot",
+  "version": "0.0.1",
+  "description": "shepherd tech lab telegram home bot",
+  "main": "index.js",
+  "repository": "https://github.com/lvlonstradamus/stl-telegram-home-bot.git",
+  "author": "Alexey Sosnovsky <lvlonstradamus@gmail.com>",
+  "license": "GPLv3"
+}
