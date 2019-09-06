@@ -1,7 +1,7 @@
 console.log('[OK]')
 const Telegraf = require('telegraf')
 
-const bot = new Telegraf(process.env.BOT_TOKEN)
+const bot = new Telegraf('838117254:AAHihInYXXHm4Fo2UQuqdLmsiyCKKZnZo3E')
 bot.start((ctx) => ctx.reply('Welcome'))
 bot.help((ctx) => ctx.reply('Send me a sticker'))
 bot.on('sticker', (ctx) => ctx.reply('👍'))
