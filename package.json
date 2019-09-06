@@ -5,5 +5,11 @@
   "main": "index.js",
   "repository": "https://github.com/lvlonstradamus/stl-telegram-home-bot.git",
   "author": "Alexey Sosnovsky <lvlonstradamus@gmail.com>",
-  "license": "GPLv3"
+  "license": "GPL-3.0-or-later",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "telegraf": "^3.32.0"
+  }
 }
